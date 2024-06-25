@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1>Hi 👋</h1>
+<p>
+My name is Farzana Alam Proma. I'm a student of Computer Science and Engineering at United International University in Bangladesh.
+</p>
 
-<!--
-**FA-proma/FA-proma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>
+  My interests 📌
+</h2>
+<ul>
+  <li>Problem solving</li>
+  
+</ul>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2>
+  Technologies i know 💻
+</h2>
+<ul>
+  <li>C</li>
+  <li>Java</li>
+  <li>GitHub</li>
+  <li>Git</li>
+</ul>
+
+<h2>
+  Connect with me 🌐
+</h2>
+<ul>
+  <li>
+    <a href="">Linkedin</a>
+  </li>
+</ul>

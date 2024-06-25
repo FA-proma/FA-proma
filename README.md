@@ -14,7 +14,7 @@ My name is Farzana Alam Proma. I'm a student of Computer Science and Engineering
 
 
 <h2>
-  Technologies i know 💻
+  Technologies I know 💻
 </h2>
 <ul>
   <li>C</li>
